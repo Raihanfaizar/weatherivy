@@ -1,0 +1,392 @@
+{
+  "cod": "200",
+  "message": 0,
+  "cnt": 10,
+  "list": [
+    {
+      "dt": 1688526000,
+      "main": {
+        "temp": 302.06,
+        "feels_like": 305.33,
+        "temp_min": 302.06,
+        "temp_max": 303.85,
+        "pressure": 1010,
+        "sea_level": 1010,
+        "grnd_level": 1007,
+        "humidity": 68,
+        "temp_kf": -1.79
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "langit cerah",
+          "icon": "01d"
+        }
+      ],
+      "clouds": {
+        "all": 6
+      },
+      "wind": {
+        "speed": 0.69,
+        "deg": 312,
+        "gust": 0.67
+      },
+      "visibility": 10000,
+      "pop": 0.14,
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2023-07-05 03:00:00"
+    },
+    {
+      "dt": 1688536800,
+      "main": {
+        "temp": 304.58,
+        "feels_like": 308.14,
+        "temp_min": 304.58,
+        "temp_max": 306.28,
+        "pressure": 1009,
+        "sea_level": 1009,
+        "grnd_level": 1005,
+        "humidity": 57,
+        "temp_kf": -1.7
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "langit cerah",
+          "icon": "01d"
+        }
+      ],
+      "clouds": {
+        "all": 4
+      },
+      "wind": {
+        "speed": 1.52,
+        "deg": 357,
+        "gust": 1.51
+      },
+      "visibility": 10000,
+      "pop": 0.06,
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2023-07-05 06:00:00"
+    },
+    {
+      "dt": 1688547600,
+      "main": {
+        "temp": 304.43,
+        "feels_like": 307.59,
+        "temp_min": 304.43,
+        "temp_max": 304.43,
+        "pressure": 1007,
+        "sea_level": 1007,
+        "grnd_level": 1004,
+        "humidity": 56,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "hujan rintik-rintik",
+          "icon": "10d"
+        }
+      ],
+      "clouds": {
+        "all": 34
+      },
+      "wind": {
+        "speed": 3.84,
+        "deg": 8,
+        "gust": 2.73
+      },
+      "visibility": 10000,
+      "pop": 0.27,
+      "rain": {
+        "3h": 0.12
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2023-07-05 09:00:00"
+    },
+    {
+      "dt": 1688558400,
+      "main": {
+        "temp": 301.18,
+        "feels_like": 303.74,
+        "temp_min": 301.18,
+        "temp_max": 301.18,
+        "pressure": 1010,
+        "sea_level": 1010,
+        "grnd_level": 1006,
+        "humidity": 69,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "hujan rintik-rintik",
+          "icon": "10n"
+        }
+      ],
+      "clouds": {
+        "all": 36
+      },
+      "wind": {
+        "speed": 1.6,
+        "deg": 29,
+        "gust": 2.01
+      },
+      "visibility": 10000,
+      "pop": 0.35,
+      "rain": {
+        "3h": 0.24
+      },
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2023-07-05 12:00:00"
+    },
+    {
+      "dt": 1688569200,
+      "main": {
+        "temp": 300.64,
+        "feels_like": 303.08,
+        "temp_min": 300.64,
+        "temp_max": 300.64,
+        "pressure": 1011,
+        "sea_level": 1011,
+        "grnd_level": 1008,
+        "humidity": 72,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "awan tersebar",
+          "icon": "03n"
+        }
+      ],
+      "clouds": {
+        "all": 39
+      },
+      "wind": {
+        "speed": 0.38,
+        "deg": 140,
+        "gust": 0.46
+      },
+      "visibility": 10000,
+      "pop": 0.41,
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2023-07-05 15:00:00"
+    },
+    {
+      "dt": 1688580000,
+      "main": {
+        "temp": 299.73,
+        "feels_like": 299.73,
+        "temp_min": 299.73,
+        "temp_max": 299.73,
+        "pressure": 1010,
+        "sea_level": 1010,
+        "grnd_level": 1007,
+        "humidity": 76,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "awan tersebar",
+          "icon": "03n"
+        }
+      ],
+      "clouds": {
+        "all": 33
+      },
+      "wind": {
+        "speed": 0.91,
+        "deg": 158,
+        "gust": 1.1
+      },
+      "visibility": 10000,
+      "pop": 0.37,
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2023-07-05 18:00:00"
+    },
+    {
+      "dt": 1688590800,
+      "main": {
+        "temp": 299.16,
+        "feels_like": 299.16,
+        "temp_min": 299.16,
+        "temp_max": 299.16,
+        "pressure": 1009,
+        "sea_level": 1009,
+        "grnd_level": 1006,
+        "humidity": 79,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "sedikit berawan",
+          "icon": "02n"
+        }
+      ],
+      "clouds": {
+        "all": 12
+      },
+      "wind": {
+        "speed": 0.93,
+        "deg": 180,
+        "gust": 1.02
+      },
+      "visibility": 10000,
+      "pop": 0.1,
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2023-07-05 21:00:00"
+    },
+    {
+      "dt": 1688601600,
+      "main": {
+        "temp": 299.67,
+        "feels_like": 299.67,
+        "temp_min": 299.67,
+        "temp_max": 299.67,
+        "pressure": 1011,
+        "sea_level": 1011,
+        "grnd_level": 1008,
+        "humidity": 78,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "sedikit berawan",
+          "icon": "02d"
+        }
+      ],
+      "clouds": {
+        "all": 24
+      },
+      "wind": {
+        "speed": 0.82,
+        "deg": 193,
+        "gust": 0.94
+      },
+      "visibility": 10000,
+      "pop": 0.07,
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2023-07-06 00:00:00"
+    },
+    {
+      "dt": 1688612400,
+      "main": {
+        "temp": 303.83,
+        "feels_like": 307.56,
+        "temp_min": 303.83,
+        "temp_max": 303.83,
+        "pressure": 1012,
+        "sea_level": 1012,
+        "grnd_level": 1008,
+        "humidity": 61,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "hujan rintik-rintik",
+          "icon": "10d"
+        }
+      ],
+      "clouds": {
+        "all": 10
+      },
+      "wind": {
+        "speed": 0.93,
+        "deg": 324,
+        "gust": 0.64
+      },
+      "visibility": 10000,
+      "pop": 0.75,
+      "rain": {
+        "3h": 0.4
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2023-07-06 03:00:00"
+    },
+    {
+      "dt": 1688623200,
+      "main": {
+        "temp": 305.1,
+        "feels_like": 308.69,
+        "temp_min": 305.1,
+        "temp_max": 305.1,
+        "pressure": 1009,
+        "sea_level": 1009,
+        "grnd_level": 1006,
+        "humidity": 55,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "hujan rintik-rintik",
+          "icon": "10d"
+        }
+      ],
+      "clouds": {
+        "all": 30
+      },
+      "wind": {
+        "speed": 2.43,
+        "deg": 347,
+        "gust": 1.98
+      },
+      "visibility": 10000,
+      "pop": 0.96,
+      "rain": {
+        "3h": 1.1
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2023-07-06 06:00:00"
+    }
+  ],
+  "city": {
+    "id": 1646494,
+    "name": "Cileungsir",
+    "coord": {
+      "lat": -6.3241,
+      "lon": 106.9732
+    },
+    "country": "ID",
+    "population": 202190,
+    "timezone": 25200,
+    "sunrise": 1688511808,
+    "sunset": 1688554159
+  }
+}
