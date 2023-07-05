@@ -10,7 +10,7 @@ export default function App() {
   const Tab = createBottomTabNavigator();
   return (
     <NavigationContainer>
-      <StatusBar backgroundColor="white" />
+      <StatusBar style="auto" backgroundColor="white" />
       <Tab.Navigator
         screenOptions={{
           headerShown: true,
