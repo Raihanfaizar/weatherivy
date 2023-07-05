@@ -1,4 +1,3 @@
-import { StatusBar } from 'expo-status-bar';
 import { NavigationContainer } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import HomeScreen from './sources/screens/HomeScreen';
@@ -10,7 +9,6 @@ export default function App() {
   const Tab = createBottomTabNavigator();
   return (
     <NavigationContainer>
-      <StatusBar style="auto" backgroundColor="white" />
       <Tab.Navigator
         screenOptions={{
           headerShown: true,
