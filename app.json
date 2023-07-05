@@ -4,7 +4,7 @@
     "slug": "Weatherivy",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/weatherivy-icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
@@ -19,12 +19,18 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/weatherivy-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.mrkhairullah.Weatherivy"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6a269dd8-52d1-4215-914c-a2123d9e73a1"
+      }
     }
   }
 }
